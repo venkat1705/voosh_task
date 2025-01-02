@@ -6,7 +6,7 @@
 
 You can access the deployed version of the application at the following link:
 
-[Deployed Link](https://voosh-task-0129.onrender.com)
+[Deployed Link](https://voosh-task-0129.onrender.com/api/v1)
 
 
 ## Technologies Used
