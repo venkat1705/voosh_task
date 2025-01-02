@@ -36,7 +36,7 @@ npm install
 
 ### 3. Set Up Environment Variables
 
-Create a `.env` file in the `backend` folder with the content based on the reference provided in the .env.example file:
+Create a `.env` file in the `voosh_task` folder with the content based on the reference provided in the .env.example file:
 ```env
 PORT = 
 SECRET_KEY = 
